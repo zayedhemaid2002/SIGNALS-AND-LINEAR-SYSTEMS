@@ -2,7 +2,7 @@ function varargout = untitled(varargin)
 %Made by students 
 %Osama Al-Nahhal (120181040)
 %Muhammed Al-Nueayzi (120190916)
-%Zayid hmayd (120192324)
+%ZAYED HEMAID (120192324)
 % UNTITLED MATLAB code for untitled.fig
 %      UNTITLED, by itself, creates a new UNTITLED or raises the existing
 %      singleton*.
